@@ -1,2 +1,1 @@
-# Flappy-bird-games-PAS
-Penugasan Praktek Pemrograman Web
+# Flappy-Bird-Game with JavaScript
